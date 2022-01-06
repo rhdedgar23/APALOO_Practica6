@@ -1,11 +1,4 @@
-/**
- * 
- */
 
-/**
- * @author marsh
- *
- */
 public class DivMod {
-
+	//Test
 }
